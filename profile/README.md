@@ -1,3 +1,5 @@
+<img width="313" alt="Screenshot 2023-03-07 at 5 47 52 PM" src="https://user-images.githubusercontent.com/2008794/223617597-1f263274-d924-476d-9522-b0f3d7afcc1c.png">
+
 ## Who we are
 
 [TileDB](https://tiledb.com/data-types/single-cell) and the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/science/programs-resources/single-cell-biology) are collaborating to address emerging needs in the single-cell ecosystem.
