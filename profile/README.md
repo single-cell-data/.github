@@ -1,6 +1,6 @@
 ## Who we are
 
-[TileDB](https://tiledb.com/data-types/single-cell) and the [Chan Zukcerberg Initiative](https://chanzuckerberg.com/science/programs-resources/single-cell-biology) are collaborating to address emerging needs in the single-cell ecosystem.
+[TileDB](https://tiledb.com/data-types/single-cell) and the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/science/programs-resources/single-cell-biology) are collaborating to address emerging needs in the single-cell ecosystem.
 
 ## The software specification
 
