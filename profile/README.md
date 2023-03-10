@@ -1,4 +1,6 @@
+<p align="center">
 <img width="313" alt="Screenshot 2023-03-07 at 5 47 52 PM" src="https://user-images.githubusercontent.com/2008794/223617597-1f263274-d924-476d-9522-b0f3d7afcc1c.png">
+</p>
 
 ## Who we are
 
