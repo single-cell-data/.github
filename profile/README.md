@@ -12,7 +12,7 @@ Read more [here](https://github.com/single-cell-data/SOMA/blob/main/README.md).
 
 ## The software package
 
-The TileDB-SOMA package is a C++ library with APIs in Python and R, using [TileDB
+The TileDB-SOMA package is a C++ library with APIs in [Python](https://tiledbsoma.readthedocs.io/en/latest/python-api.html) and [R](https://single-cell-data.github.io/TileDB-SOMA/), using [TileDB
 Embedded](https://github.com/TileDB-Inc/TileDB) to implement the
 [SOMA specification](https://github.com/single-cell-data/SOMA/blob/main/abstract_specification.md).
 
