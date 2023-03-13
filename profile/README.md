@@ -8,7 +8,7 @@
 
 SOMA is a flexible, extensible, and open-source API enabling access to data in a variety of formats. SOMA is designed to be general-purpose for data that can be modeled as one or more sets of 2D annotated matrices with measurements of features across observations. The driving use case of SOMA is for single-cell data in the form of annotated matrices where observations are frequently cells and features are genes, proteins, or genomic regions.
 
-Read more [here](https://github.com/single-cell-data/SOMA/blob/main/README.md).
+Read more about the spec [here](https://github.com/single-cell-data/SOMA).
 
 ## The software package
 
@@ -16,7 +16,7 @@ The TileDB-SOMA package is a C++ library with APIs in [Python](https://tiledbsom
 Embedded](https://github.com/TileDB-Inc/TileDB) to implement the
 [SOMA specification](https://github.com/single-cell-data/SOMA/blob/main/abstract_specification.md).
 
-Read more [here](https://github.com/single-cell-data/TileDB-SOMA/blob/main/README.md).
+Read more about the software package [here](https://github.com/single-cell-data/TileDB-SOMA).
 
 ## Join our community
 
