@@ -1,6 +1,4 @@
-<p align="center">
 ![SOMA_github_banner1](https://user-images.githubusercontent.com/2008794/224723452-97fcbe3a-5e3d-4107-b249-2b71415d3bb7.jpg)
-</p>
 
 ## Who we are
 
