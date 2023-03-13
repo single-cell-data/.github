@@ -1,5 +1,5 @@
 <p align="center">
-<img width="313" alt="Screenshot 2023-03-07 at 5 47 52 PM" src="https://user-images.githubusercontent.com/2008794/223617597-1f263274-d924-476d-9522-b0f3d7afcc1c.png">
+![SOMA_github_banner1](https://user-images.githubusercontent.com/2008794/224723452-97fcbe3a-5e3d-4107-b249-2b71415d3bb7.jpg)
 </p>
 
 ## Who we are
