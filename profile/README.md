@@ -20,6 +20,6 @@ Read more about the software package [here](https://github.com/single-cell-data/
 
 ## Join our community
 
-* [cziscience.slack.com](https://join-cellxgene-users.herokuapp.com)
+* [cziscience.slack.com](https://czi.co/science-slack)
 * [tiledb-community.slack.com](https://tiledb-community.slack.com/join/shared_invite/zt-ndq1ipwl-QcithaWG6j1BImtuQGSpag#/shared-invite/email)
 * [GitHub issues](https://github.com/single-cell-data/TileDB-SOMA/issues)
